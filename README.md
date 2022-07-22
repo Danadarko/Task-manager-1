@@ -6,7 +6,7 @@ Here in this app users have accesss to a wide range of different features:
 ![This is an image](./video_sample.gif)
 
 - [x] creating task cards;
-- [x] filling in the description and editting the text of a task;
+- [x] filling in the description and editing the text of a task;
 - [x] changing the position of a task card on the list;
 - [x] moving a task card through the lists (using Drag N Drop);
 - [x] deleting a task card or all the fullfilled ones;
